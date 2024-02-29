@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../Src"
+        },
+        {
+            "path": "../application"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "referee_task.h": "c"
+        }
+    },
+    "extensions": {}
+}
